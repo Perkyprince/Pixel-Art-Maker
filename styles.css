@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4q_8bUipSLk4vzNPIgtMNpkMu2bnAU_Gm6CW3hCNnaL23jBNBbA');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-family: "Brush Script MT", cursive;
+    font-size: 100px;
+    margin: 0.2em;
+    color: #660000;
+}
+
+h2 {
+    margin: 1em 0 0.25em;
+    color: #660000;
+}
+
+h2:first-of-type {
+    margin-top: 0.5em;
+}
+
+table,
+tr,
+td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+tr {
+    height: 20px;
+}
+
+td {
+    width: 20px;
+}
+
+input[type=number] {
+    width: 6em;
+}
